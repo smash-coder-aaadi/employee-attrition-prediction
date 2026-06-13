@@ -1,0 +1,35 @@
+# Employee Attrition Prediction System
+
+## Business Problem
+Employee attrition leads to increased recruitment and training costs. This project predicts employee turnover and identifies key contributing factors.
+
+## Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- SQL
+- Power BI
+- Matplotlib
+- Seaborn
+
+## Project Workflow
+1. Data Cleaning
+2. Exploratory Data Analysis
+3. SQL Business Analysis
+4. Machine Learning Modeling
+5. Feature Importance Analysis
+6. Power BI Dashboard
+
+## Model Performance
+- Accuracy: XX%
+- Algorithm: Random Forest
+
+## Key Findings
+- Overtime significantly increases attrition risk.
+- Lower income employees are more likely to leave.
+- Job satisfaction impacts employee retention.
+
+## Business Recommendations
+- Reduce excessive overtime.
+- Improve employee engagement.
+- Monitor high-risk groups proactively.
